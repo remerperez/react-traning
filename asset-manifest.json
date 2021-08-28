@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-traning/static/css/main.21b6b89c.chunk.css",
+    "main.js": "/react-traning/static/js/main.6d79387b.chunk.js",
+    "main.js.map": "/react-traning/static/js/main.6d79387b.chunk.js.map",
+    "runtime-main.js": "/react-traning/static/js/runtime-main.047bbd9b.js",
+    "runtime-main.js.map": "/react-traning/static/js/runtime-main.047bbd9b.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/react-traning/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.1f2ba01f.chunk.js": "/react-traning/static/js/2.1f2ba01f.chunk.js",
+    "static/js/2.1f2ba01f.chunk.js.map": "/react-traning/static/js/2.1f2ba01f.chunk.js.map",
+    "static/js/3.fd12fa95.chunk.js": "/react-traning/static/js/3.fd12fa95.chunk.js",
+    "static/js/3.fd12fa95.chunk.js.map": "/react-traning/static/js/3.fd12fa95.chunk.js.map",
+    "index.html": "/react-traning/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/react-traning/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.21b6b89c.chunk.css.map": "/react-traning/static/css/main.21b6b89c.chunk.css.map",
+    "static/js/2.1f2ba01f.chunk.js.LICENSE.txt": "/react-traning/static/js/2.1f2ba01f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-traning/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.047bbd9b.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.1f2ba01f.chunk.js",
+    "static/css/main.21b6b89c.chunk.css",
+    "static/js/main.6d79387b.chunk.js"
+  ]
+}
